@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>test.avi</filename>
+	<folder>05june05_static_indoor</folder>
+
+	<source>
+		<sourceImage>Hollywodd2 database</sourceImage>
+		<sourceAnnotation>name of our GUI</sourceAnnotation>
+	</source>
+	
+	<videosize>
+		<imagesize>
+			<nrows>480</nrows>
+			<ncols>640</ncols>
+		</imagesize>
+		<framenumber>100</framenumber>
+		<bitrate>100 ### POSSIBLE ?</bitrate>
+	</videosize>
+
+	<camerashots>
+		<camerashot>
+			<frame_index>10</frame_index>
+		</camerashot>
+		<camerashot>
+			<frame_index>27</frame_index>
+		</camerashot>
+	</camerashots>
+
+	<actions>
+		<action>
+			<type>open_door</type>
+			<id>01 ### UNIQUE ID</id>
+			<deleted>0 ### DEFAULT</deleted>
+			<verified>1 ### DEFAULT</verified>
+			<username>Sobhan_Arnaud ### DEFAULT</username>
+		</action>
+	</actions>
+
+	<frames>
+		<frame>
+			<index>10</index>
+			<annot>
+			    <action_id>01</action_id>
+				<is_keyframe>1</is_keyframe>  	### the keyframe with the smallest index is the apparition of the action
+				<date>21-Jul-2005 19:53:09</date>
+				<polygon>
+					<pt> <x>1473</x> <y>563</y> </pt>
+					<pt> <x>1787</x> <y>586</y> </pt>
+					<pt> <x>1824</x> <y>1640</y> </pt>
+					<pt> <x>1622</x> <y>1724</y> </pt>
+				</polygon>
+			</annot>
+		</frame>
+	</frames>
+</annotation>

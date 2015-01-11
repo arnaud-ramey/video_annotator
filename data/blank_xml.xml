@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename/>
+	<folder/>
+
+	<source>
+		<sourceImage>Hollywodd2 database</sourceImage>
+		<sourceAnnotation>name of our GUI</sourceAnnotation>
+	</source>
+	
+	<videosize>
+		<imagesize>
+			<nrows/>
+			<ncols/>
+		</imagesize>
+		<framenumber/>
+		<bitrate/>
+	</videosize>
+
+	<camerashots>
+	</camerashots>
+
+	<actions>
+	</actions>
+
+	<frames>
+	</frames>
+</annotation>

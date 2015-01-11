@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename />
+    <folder />
+    <source>
+        <sourceImage>Hollywodd2 database</sourceImage>
+        <sourceAnnotation>name of our GUI</sourceAnnotation>
+    </source>
+    <videosize>
+        <imagesize>
+            <nrows />
+            <ncols />
+        </imagesize>
+        <framenumber>10</framenumber>
+        <bitrate />
+    </videosize>
+    <camerashots />
+    <actions>
+        <action>
+            <type>drive_car</type>
+            <deleted>0</deleted>
+            <verified>1</verified>
+            <username>Sobhan_Arnaud</username>
+            <id>1</id>
+        </action>
+        <action>
+            <type>fight_person</type>
+            <deleted>0</deleted>
+            <verified>1</verified>
+            <username>Sobhan_Arnaud</username>
+            <id>2</id>
+        </action>
+    </actions>
+    <frames>
+        <frame>
+            <index>3</index>
+            <annot>
+                <action_id>1</action_id>
+                <is_keyframe>1</is_keyframe>
+                <date>Tue Dec 15 03:48:04 2009</date>
+                <polygon>
+                    <pt>
+                        <x>5</x>
+                        <y>0</y>
+                    </pt>
+                    <pt>
+                        <x>0</x>
+                        <y>0</y>
+                    </pt>
+                    <pt>
+                        <x>0</x>
+                        <y>0</y>
+                    </pt>
+                    <pt>
+                        <x>0</x>
+                        <y>0</y>
+                    </pt>
+                </polygon>
+            </annot>
+        </frame>
+        <frame>
+            <index>4</index>
+            <annot>
+                <action_id>1</action_id>
+                <is_keyframe>0</is_keyframe>
+                <date>Tue Dec 15 03:48:04 2009</date>
+                <polygon>
+                    <pt>
+                        <x>4.5</x>
+                        <y>0</y>
+                    </pt>
+                    <pt>
+                        <x>0</x>
+                        <y>0</y>
+                    </pt>
+                    <pt>
+                        <x>0</x>
+                        <y>0</y>
+                    </pt>
+                    <pt>
+                        <x>0</x>
+                        <y>0</y>
+                    </pt>
+                </polygon>
+            </annot>
+        </frame>
+        <frame>
+            <index>5</index>
+            <annot>
+                <action_id>1</action_id>
+                <is_keyframe>1</is_keyframe>
+                <date>Tue Dec 15 03:48:04 2009</date>
+                <polygon>
+                    <pt>
+                        <x>4</x>
+                        <y>0</y>
+                    </pt>
+                    <pt>
+                        <x>0</x>
+                        <y>0</y>
+                    </pt>
+                    <pt>
+                        <x>0</x>
+                        <y>0</y>
+                    </pt>
+                    <pt>
+                        <x>0</x>
+                        <y>0</y>
+                    </pt>
+                </polygon>
+            </annot>
+        </frame>
+        <frame>
+            <index>7</index>
+        </frame>
+    </frames>
+</annotation>
