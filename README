@@ -49,5 +49,5 @@ Action ROIs (rectangles) are interpolated between keyframes.
 Keys:
  * 'o': move to previous frame
  * 'n': move to next     frame
- * 'o': move to previous keyframe
- * 'n': move to next     keyframe
+ * 'l': move to previous keyframe
+ * 'm': move to next     keyframe
