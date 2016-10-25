@@ -2,6 +2,8 @@
                   |    video_annotator   |
                   +----------------------+
 
+[![Build Status](https://travis-ci.org/arnaud-ramey/video_annotator.svg)](https://travis-ci.org/arnaud-ramey/video_annotator)
+
 Human Action Recognition in realistic scenarios
 
 License :                  see the LICENSE file.
